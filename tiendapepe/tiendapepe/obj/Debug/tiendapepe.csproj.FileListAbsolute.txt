@@ -1,0 +1,7 @@
+C:\Users\domi2\source\repos\tiendapepe\tiendapepe\bin\Debug\tiendapepe.exe.config
+C:\Users\domi2\source\repos\tiendapepe\tiendapepe\bin\Debug\tiendapepe.exe
+C:\Users\domi2\source\repos\tiendapepe\tiendapepe\bin\Debug\tiendapepe.pdb
+C:\Users\domi2\source\repos\tiendapepe\tiendapepe\obj\Debug\tiendapepe.csproj.AssemblyReference.cache
+C:\Users\domi2\source\repos\tiendapepe\tiendapepe\obj\Debug\tiendapepe.csproj.CoreCompileInputs.cache
+C:\Users\domi2\source\repos\tiendapepe\tiendapepe\obj\Debug\tiendapepe.exe
+C:\Users\domi2\source\repos\tiendapepe\tiendapepe\obj\Debug\tiendapepe.pdb
